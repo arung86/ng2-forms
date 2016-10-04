@@ -1,6 +1,6 @@
 # Angular 2 Forms
 
-This is a fork repository of Dan Wahlin Repo : [Angular2-Forms ] (ttps://github.com/DanWahlin/Angular2-Forms)
+This is a fork repository of Dan Wahlin Repo : [Angular2-Forms ](ttps://github.com/DanWahlin/Angular2-Forms)
 
 This code sample demonstrates how Angular 2 template-driven forms and 
 model-driven forms can be created and used.
