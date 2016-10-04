@@ -10,12 +10,12 @@ export class BasicFormComponent implements OnInit {
     form: any;
     powers: string[];
     submitted: boolean = false;
-    constructor() {    }
+    constructor() { }
     ngOnInit() {
         this.powers = ['Really Smart', 'Turbulent Breeze',
             'Super Hot', 'Weather Changer'];
     }
-    onsubmit(form:any){
+    onsubmit(form: any) {
         this.submitted = true;
         this.form = form;
     }
